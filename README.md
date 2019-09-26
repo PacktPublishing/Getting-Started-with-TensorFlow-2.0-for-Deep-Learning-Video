@@ -1,6 +1,6 @@
 # Getting-Started-with-TensorFlow-2.0-for-Deep-Learning-Video
 
-This is the code repository for [Getting Started with TensorFlow 2.0 for Deep Learning [Video]](https://www.packtpub.com), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
+This is the code repository for [Getting Started with TensorFlow 2.0 for Deep Learning [Video]](https://www.packtpub.com/application-development/getting-started-tensorflow-20-deep-learning-video), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
 
 ## About the Video Course
 Deep learning is a trending technology if you want to break into cutting-edge AI and solve real-world, data-driven problems. Google’s TensorFlow is a popular library for implementing deep learning algorithms because of its rapid developments and commercial deployments.
